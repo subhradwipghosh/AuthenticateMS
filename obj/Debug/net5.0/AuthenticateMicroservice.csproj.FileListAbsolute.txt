@@ -1,0 +1,220 @@
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.exe
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.deps.json
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.runtimeconfig.json
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.runtimeconfig.dev.json
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\ref\AuthenticateMicroservice.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.pdb
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.AssemblyInfo.cs
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticateMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticateMicroservice.StaticWebAssets.xml
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticateMicroservice.styles.css
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\ref\AuthenticateMicroservice.dll
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.pdb
+C:\Users\User\Desktop\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.genruntimeconfig.cache
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.exe
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.deps.json
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.runtimeconfig.json
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.runtimeconfig.dev.json
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\ref\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.pdb
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.AssemblyReference.cache
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.AssemblyInfoInputs.cache
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.AssemblyInfo.cs
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticateMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticateMicroservice.StaticWebAssets.xml
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticateMicroservice.styles.css
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.CopyComplete
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\ref\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.pdb
+C:\Users\subhr\Desktop\Project\project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.genruntimeconfig.cache
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.exe
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.deps.json
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.runtimeconfig.json
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.runtimeconfig.dev.json
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\ref\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.pdb
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.AssemblyReference.cache
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.AssemblyInfoInputs.cache
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.AssemblyInfo.cs
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticateMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticateMicroservice.StaticWebAssets.xml
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticateMicroservice.styles.css
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.CopyComplete
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\ref\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.pdb
+C:\Users\subhr\Desktop\Angular-api\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.genruntimeconfig.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\appsettings.Development.json
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\appsettings.json
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.exe
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.deps.json
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.runtimeconfig.json
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.runtimeconfig.dev.json
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\ref\AuthenticateMicroservice.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.AssemblyReference.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.AssemblyInfoInputs.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.AssemblyInfo.cs
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.CoreCompileInputs.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.MvcApplicationPartsAssemblyInfo.cs
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.MvcApplicationPartsAssemblyInfo.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticateMicroservice.StaticWebAssets.Manifest.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticateMicroservice.StaticWebAssets.xml
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticateMicroservice.styles.css
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.RazorTargetAssemblyInfo.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.CopyComplete
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\ref\AuthenticateMicroservice.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.genruntimeconfig.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Humanizer.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.exe
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.deps.json
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.runtimeconfig.json
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.runtimeconfig.dev.json
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\ref\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\AuthenticateMicroservice.pdb
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.AssemblyReference.cache
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.AssemblyInfoInputs.cache
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.AssemblyInfo.cs
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticateMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticateMicroservice.StaticWebAssets.xml
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticateMicroservice.styles.css
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.csproj.CopyComplete
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\ref\AuthenticateMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.pdb
+C:\Users\subhr\Desktop\Angular-api\shobhan\AuthenticateMicroservice\obj\Debug\net5.0\AuthenticateMicroservice.genruntimeconfig.cache
